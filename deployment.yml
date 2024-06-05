@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: adijaiswal/xyz:tag
+        image: praveenakumara/amazon:v1
         ports:
         - containerPort: 8081
